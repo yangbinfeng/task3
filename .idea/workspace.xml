@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9264605c-8951-4bc0-8e7e-d4aff68683c9" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task2.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/task2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/task2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/task2.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,21 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task2.html">
+      <file leaf-file-name="task3.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task3.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task2.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,6 +47,7 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/task2.html" />
         <option value="$PROJECT_DIR$/.idea/task2.css" />
+        <option value="$PROJECT_DIR$/task3.html" />
       </list>
     </option>
   </component>
@@ -195,6 +184,7 @@
       <workItem from="1496510352403" duration="1454000" />
       <workItem from="1496511900561" duration="798000" />
       <workItem from="1496512740715" duration="26145000" />
+      <workItem from="1496570051217" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="edition_1">
       <created>1496566671918</created>
@@ -207,7 +197,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28397000" />
+    <option name="totallyTimeSpent" value="28417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="730" extended-state="6" />
@@ -248,84 +238,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/task2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/task2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/task2.html" />
+    <entry file="file://$PROJECT_DIR$/.idea/task2.css" />
+    <entry file="file://$PROJECT_DIR$/.idea/task2.html" />
+    <entry file="file://$PROJECT_DIR$/.idea/task2.css" />
     <entry file="file://$PROJECT_DIR$/images/记录页_03.png" />
-    <entry file="file://$PROJECT_DIR$/.idea/images/整合透底.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/images/椭圆 1 拷贝.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/images/椭圆 1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/images/记录页_03.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/task2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task2.html">
+    <entry file="file://$PROJECT_DIR$/.idea/images/整合透底.png" />
+    <entry file="file://$PROJECT_DIR$/.idea/images/椭圆 1 拷贝.png" />
+    <entry file="file://$PROJECT_DIR$/.idea/images/椭圆 1.png" />
+    <entry file="file://$PROJECT_DIR$/.idea/images/记录页_03.png" />
+    <entry file="file://$PROJECT_DIR$/.idea/task2.html" />
+    <entry file="file://$PROJECT_DIR$/.idea/task2.css" />
+    <entry file="file://$PROJECT_DIR$/task2.css" />
+    <entry file="file://$PROJECT_DIR$/task2.html" />
+    <entry file="file://$PROJECT_DIR$/task3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
