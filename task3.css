@@ -15,7 +15,7 @@ body{
 .img1{
     position:absolute;
     top:20px;
-    left:34px;
+    left:20px;
 }
 .img2{
     position:absolute;
@@ -25,19 +25,20 @@ body{
 }
 .img3{
     position:absolute;
-    left:138px;
+    left:11%;
     top:680px;
 }
 .img4{
     position:absolute;
-    right:138px;
+    right:11%;
     top:680px;
 }
 img{
     display:block;
+    margin:0 auto;
 }
 .content{
-    font-size: 3rem;
+    font-size: 2rem;
     font-family: "Hiragino Sans GB";
     color: rgb(255, 255, 255);
     position: absolute;
@@ -45,21 +46,11 @@ img{
     right:14.69%;
     top: 312px;
 }
-.BJPTTeng {
-    font-size: 2.4rem;
+span{
+    font-size: 2rem;
     font-family: "Adobe Heiti Std";
     color: rgb(255, 255, 255);
-    position: absolute;
-    right:120px;
-    top:780px;
 }
-._290560933 {
-    font-size: 2.4rem;
-    font-family: "Adobe Heiti Std";
-    color: rgb(255, 255, 255);
-    position: absolute;
-    left: 120px;
-    top: 780px;
-}
+
 
 
