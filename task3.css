@@ -12,45 +12,39 @@ body{
     height:100%;
     background: rgb(104,205,213);
 }
-.img1{
-    position:absolute;
-    top:20px;
-    left:20px;
-}
-.img2{
-    position:absolute;
-    top:116px;
-    left:50%;
-    transform:translatex(-50%) ;
-}
-.img3{
-    position:absolute;
-    left:11%;
-    top:680px;
-}
-.img4{
-    position:absolute;
-    right:11%;
-    top:680px;
-}
 img{
     display:block;
-    margin:0 auto;
+}
+.box1{
+    padding:20px 0 42px 20px;
+}
+.box2,.box5,.box6{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box3{
+    padding:124px 90px 0;
+    display:flex;
+    justify-content: center;
+}
+.box4{
+    padding:158px 11% 200px;
+    display:flex;
+    justify-content: space-between;
 }
 .content{
     font-size: 2rem;
     font-family: "Hiragino Sans GB";
     color: rgb(255, 255, 255);
     line-height: 1.807;
-    position: absolute;
-    left: 14.69%;
-    right:14.69%;
-    top: 312px;
 }
 span{
     font-size: 2rem;
     font-family: "Adobe Heiti Std";
     color: rgb(255, 255, 255);
-    margin-top: 16px;
     display:block;
+    margin-top: 16px;
 }
+
