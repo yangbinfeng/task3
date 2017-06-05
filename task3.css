@@ -3,82 +3,63 @@
     padding:0;
 }
 html{
-    width:100vw;
-    height:100vw;
+    width:100%;
+    height:100%;
     font-size:62.5%;
 }
 body{
-    width:100vw;
-    height:100vw;
+    width:100%;
+    height:100%;
     background: rgb(104,205,213);
-
 }
 .img1{
     position:absolute;
-    width:8.4vw;
-    height:8.4vw;
-    top:10px;
-    left:17px;
-    max-width: 27px;
-    max-height: 27px;
+    top:20px;
+    left:34px;
 }
 .img2{
     position:absolute;
-    width:28.3vw;
-    height:10.94vw;
-    max-width:90.5px;
-    max-height:35px;
-    top:58px;
+    top:116px;
     left:50%;
     transform:translatex(-50%) ;
 }
 .img3{
     position:absolute;
-    width:13.55vw;
-    height:13.55vw;
-    left:69px;
-    top:340px;
-    max-width: 42px;
-    max-height: 42px;
+    left:138px;
+    top:680px;
 }
 .img4{
     position:absolute;
-    width:13.55vw;
-    height:13.55vw;
-    right:69px;
-    top:340px;
-    max-width: 42px;
-    max-height: 42px;
+    right:138px;
+    top:680px;
 }
 img{
-    width:100%;
-    height:100%;
+    display:block;
 }
 .content{
-    font-size: 1.5rem;
+    font-size: 3rem;
     font-family: "Hiragino Sans GB";
     color: rgb(255, 255, 255);
-    line-height: 1.807;
     position: absolute;
-    left: 14.69vw;
-    right:14.69vw;
-    top: 156px;
+    left: 14.69%;
+    right:14.69%;
+    top: 312px;
 }
 .BJPTTeng {
-    font-size: 1.2rem;
+    font-size: 2.4rem;
     font-family: "Adobe Heiti Std";
     color: rgb(255, 255, 255);
     position: absolute;
-    right: 60px;
-    top:390px;
+    right:120px;
+    top:780px;
 }
 ._290560933 {
-    font-size: 1.2rem;
+    font-size: 2.4rem;
     font-family: "Adobe Heiti Std";
     color: rgb(255, 255, 255);
     position: absolute;
-    left: 60px;
-    top: 390px;
+    left: 120px;
+    top: 780px;
 }
 
 
